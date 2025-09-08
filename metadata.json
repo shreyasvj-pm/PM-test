@@ -1,0 +1,5 @@
+{
+  "name": "Product Manager Adventure",
+  "description": "A dynamic 4-round text adventure game where you navigate the challenges of being a Product Manager, making strategic decisions about tech debt, AI features, and legacy systems.",
+  "requestFramePermissions": []
+}
